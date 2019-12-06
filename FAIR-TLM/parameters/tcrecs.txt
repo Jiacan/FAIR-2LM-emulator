@@ -1,0 +1,7 @@
+# this sheet provides ECS and TCR of CMIP5 models (Forster et al. 2013)
+model,TCR,ECS
+MPI-ESM-LR,2,3.63
+IPSL-CM5A-LR,2,4.13
+HadGEM2-ES,2.5,4.59
+GISS-E2-R,1.5,2.11
+bcc-csm1-1,1.7,2.82

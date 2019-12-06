@@ -1,0 +1,7 @@
+# This file includes the values of present day aerosol forcing for CMIP5 GCMs (from Forster et al. 2013  for HadGEM2-ES and Zelinka et al. 2014  for IPSL-CM5A-LR)
+model,af_PD
+MPI-ESM-LR,-0.9
+IPSL-CM5A-LR,-0.68
+HadGEM2-ES,-1.23
+GISS-E2-R,-0.9
+bcc-csm1-1,-0.9
