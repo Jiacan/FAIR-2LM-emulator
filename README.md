@@ -1,5 +1,5 @@
 # FAIR-2LM-emulator
-This repository stores the code for emulating projections of zostoga (global-mean thermosteric sea level rise) and zos (dynamic sea level rise deviating from the global mean) based on FAIR-TLM.
+This repository stores the code for emulating projections of zostoga (global-mean thermosteric sea level rise) and zos (dynamic sea level rise deviating from the global mean) based on FAIR-2LM.
 
 Contents:
 1. FAIR-TLM: code for the FAIR-2LM
